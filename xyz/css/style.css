@@ -3,6 +3,7 @@ body {
   color: #333;
   background-color: #fff;
   letter-spacing: 1px;
+  font-family: "Karla", sans-serif;
 }
 
 .overlay {
@@ -65,7 +66,17 @@ body {
 }
 
 .aboutImage {
+  padding: 0.25rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
   max-width: 100%;
+  height: auto;
+}
+
+#aboutP {
+  padding: 0.5rem !important;
+  font-size: 17px;
 }
 
 .skillsSection,
