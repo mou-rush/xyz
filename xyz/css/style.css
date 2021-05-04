@@ -79,6 +79,22 @@ body {
   font-size: 17px;
 }
 
+.resume {
+  margin-top: 5rem;
+  transition: all 0.75s ease-out;
+}
+.resume button {
+  width: 130px;
+  padding: 1rem 0rem;
+  background: #a685e2;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 30px;
+  margin-bottom: 25px;
+  font: bold 10px;
+}
+
 .skillsSection,
 .contactSection {
   background-color: #30475e;
